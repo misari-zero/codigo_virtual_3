@@ -1,0 +1,17 @@
+body{
+    background-color: #444;
+    color: white;
+}
+
+section{
+    width: 500px;
+    background-color: teal;
+}
+
+.ancho-200{
+    width: 200px;
+    background-color: #222;
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}

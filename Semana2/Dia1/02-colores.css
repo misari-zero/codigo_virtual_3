@@ -1,0 +1,53 @@
+body{
+    background: #444;
+    color: white;
+}
+
+.rojo{
+    color: red;
+}
+
+.amarillo{
+    color: yellow;
+}
+
+.naranja{
+    color: orange;
+}
+
+.azulex{
+    color: #0000FF;
+}
+
+.violetaex{
+    color: #ff00ff;
+}
+
+.grisclaroex{
+    color: #ddd;
+}
+
+.rosadorgb{
+    color: rgb(250, 190, 190);
+}
+
+.amarillorgb{
+    color: rgb(255, 255, 0);
+}
+
+.semitransparente{
+    background: rgba(143, 189, 79, 0.5);
+}
+
+.hsl{
+    background-color: hsl(0, 50%, 50%);
+}
+
+.hsl2{
+    background-color: hsl(0, 50%, 40%);
+}
+
+.hsl3{
+    background-color: hsl(0, 50%, 30%);
+    /* background-color: hsla(270, 100%, 30%, 0.5);*/
+}
