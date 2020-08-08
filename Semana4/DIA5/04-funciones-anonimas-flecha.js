@@ -15,6 +15,5 @@ const sumarFlecha = (a,b) =>{
 console.log(sumarFlecha(500, 20));
 
 
-
 const miFunction = () => {};
 flecha
